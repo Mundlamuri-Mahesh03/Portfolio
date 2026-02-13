@@ -1,0 +1,21 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "This is back-end for Mahesh's portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run start"
+  },
+  "author": "Itha Mahesh Mundlamuri",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.3.1",
+    "nodemailer": "^6.9.13",
+    "octokit": "^3.2.0"
+  }
+}
